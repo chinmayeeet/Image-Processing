@@ -1,2 +1,4 @@
-# TataIQ_Intern
-Work done during internship
+# Image Processing
+
+Basics of image processing 
+
